@@ -1,6 +1,6 @@
 //
 //  ProgressGraph.swift
-//  Dubug My App
+//  Curve Progress
 //
 //  Created by Shubh on 15/06/18.
 //  Copyright © 2018 Shubh. All rights reserved.
